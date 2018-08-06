@@ -1,0 +1,19 @@
+{
+  "name": "evan_try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "npm": "^6.3.0",
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "@mistergenest",
+  "license": "ISC",
+  "repository": "https://github.com/atom-box/that2018.git"
+}
